@@ -1,0 +1,23 @@
+.tweet-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.tweet-container h4 {
+    padding-left: 10px;
+}
+
+h4.handle {
+  color: lightgray;
+}
+
+.tweet-body {
+    width: 90%;
+}
+
+.tweet-body p {
+    text-align: left;
+    color: black;
+}
+
+

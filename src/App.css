@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: lightblue;
+  height: 100%;
+}
+
+.main-contents {
+  display: flex;
+  justify-content: space-around;
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+  margin-top: 2%;
+}
